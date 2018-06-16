@@ -1,3 +1,0 @@
-# Teste
-
-qualquer coisa!
